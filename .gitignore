@@ -1,0 +1,12 @@
+
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/keras-yolo3-master.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+__pycache__/yolo.cpython-36.pyc
+model_data/yolo.h5
+yolo3/__pycache__/__init__.cpython-36.pyc
+yolo3/__pycache__/model.cpython-36.pyc
+yolo3/__pycache__/utils.cpython-36.pyc
